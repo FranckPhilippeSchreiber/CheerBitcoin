@@ -40,8 +40,8 @@ Key functions of CheerBitcoin :
 3.	Stimulating positive behaviors: CheerBitcoin rewards, via a voting system, users for positive actions and beneficial contributions to the common good, which encourages positive behavior and active participation.
 4.	Accessibility: CheerBitcoin is a useful token with a clear value proposition that aims to be easily accessible to everyone via decentralized and centralized exchanges.
 5.	Inclusivity: CheerBitcoin fosters an economy that values the happiness and well-being of all its participants. Exchanging CheerBitcoin provides the assurance of doing good indirectly via the donation mechanism. Holding CheerBitcoin gives the right to vote for the best contributions to the community. The maximum number of CheerBitcoin tokens is set at inception and CheerBitcoin's unique value proposition paves the way for mass adoption for a significant increase in the token's value following its adoption.
-6.	The Blacklisting of an address allows CheerBitcoin assets to be frozen in the event of proof of money laundering or terrorist financing in accordance with Article L. 562-4 of the Monetary and Financial Code.
-7.	Limiting the maximum amount of transactions on DEXs is the most pragmatic method found to fight money laundering in accordance with Article L. 561-2 of the Monetary and Financial Code.
+6.	The Blacklisting of an address allows CheerBitcoin assets to be frozen in the event of proof of money laundering or terrorist financing in accordance with Article L. 562-4 of the french Monetary and Financial Code.
+7.	Limiting the maximum amount of transactions on DEXs is the most pragmatic method found to fight money laundering in accordance with Article L. 561-2 of the french Monetary and Financial Code.
 
 Together, these features make CheerBitcoin more than just a token: it's a tool to foster positivity, community engagement, and a happiness-centric economy in compliance with French crypto asset regulations.
 
