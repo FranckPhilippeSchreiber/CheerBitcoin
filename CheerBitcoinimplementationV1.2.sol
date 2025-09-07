@@ -22,7 +22,7 @@ contract CheerBitcoin is Initializable, ERC20Upgradeable, ERC20BurnableUpgradeab
     }
 
     function initialize(address initialOwner, uint256 initialMaxTransactionAmount) public initializer {
-        __ERC20_init("CheerBitcoin", "C");
+        __ERC20_init("CheerBitcoin", "CHEER");
         __ERC20Burnable_init();
         __ERC20Pausable_init();
         __Ownable_init(initialOwner);
