@@ -1,4 +1,4 @@
-# How was CheerBitcoin deployed on Polygon zkEVM
+# How was CheerBitcoin deployed on Base Op Stack (Eth L2)
 
 The Proxy contract and its first and then upgraded implementations were deployed using remix (deploy with proxy).
 
